@@ -1,0 +1,18 @@
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore build and dist directories
+/build/
+/dist/
+*.egg-info/
+
+# Installer logs and generated files
+*.log
+/tmp/
+*.tmp
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*~
